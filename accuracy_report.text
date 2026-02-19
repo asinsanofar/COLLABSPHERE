@@ -1,0 +1,95 @@
+1. Targeted Acquisition (Delhi/Fashion)
+Prompt: "Identify the top 3 fashion influencers in Delhi with engagement > 5% and budget < ₹40k."
+
+AI Analysis: Scanning Delhi-Region nodes...
+
+Result: 1. Aavya Sharma: 8.2% Eng | ₹32,000 (Fashion/Lifestyle)
+2. Rohan Sethi: 6.1% Eng | ₹28,500 (Streetwear)
+3. Ishani V.: 5.5% Eng | ₹38,000 (High Fashion)
+
+Strategic Note: Aavya Sharma offers the highest ROI per rupee spent in this quadrant.
+
+2. Undervalued Tech Partners
+Prompt: "Who are our most 'undervalued' tech partners with high engagement but low fees?"
+
+AI Analysis: Cross-referencing "Engagement Score" vs. "Budget Mean."
+
+Result: TechVeda (Bangalore). Despite having 120k followers, their fee is 30% below market average while maintaining a 7.4% engagement rate.
+
+Recommendation: Secure a long-term contract before their market value self-corrects.
+
+3. High-Reach Luxury Launch
+Prompt: "List travel influencers in South India with > 500k followers for a luxury resort launch."
+
+AI Analysis: Filtering Region: South India | Followers > 500,000.
+
+Result: Karthik Travels (850k) and The Wandering Soul (620k).
+
+Strategic Note: Karthik Travels has a higher concentration of "Luxury" category tags, making him the prime choice for a resort launch.
+
+4. Industry Performance Benchmark
+Prompt: "Compare average engagement between Fashion and Tech."
+
+AI Analysis: Aggregating Category Averages.
+
+Result: Fashion averages 4.2% while Tech averages 5.8%.
+
+Insight: Tech audiences are more interactive (comments/shares), whereas Fashion audiences are more "passive viewers."
+
+5. Mumbai Fitness Market Summary
+Prompt: "Analyze the Fitness niche in Mumbai. What are the budget requirements?"
+
+AI Analysis: Cluster analysis for Mumbai + Fitness.
+
+Result: The "Entry Level" (50k followers) starts at ₹15k. "Mid-Tier" (200k followers) averages ₹45k-₹60k.
+
+Market Trend: Mumbai Fitness influencers charge a 15% premium compared to other regions due to production quality.
+
+6. Budget Optimization (₹2,00,000 Cap)
+Prompt: "Suggest a mix of 5 influencers for maximum reach with ₹2,00,000."
+
+AI Analysis: Linear programming optimization for Reach/Cost.
+
+Proposed Portfolio: 1 Mega-Influencer (Reach focus) + 4 Micro-Influencers (Engagement focus). This balanced "Barbell Strategy" ensures both visibility and trust.
+
+7. 3-Month Skincare Strategy
+Prompt: "Draft a 3-month strategy using only 'Lifestyle' category influencers."
+
+AI Analysis: Sequential campaign mapping.
+
+Strategy: * Month 1: Awareness (Top 3 Lifestyle Reach).
+
+Month 2: Consideration (Mid-tier Reviews/Tutorials).
+
+Month 3: Conversion (Affiliate links with high-engagement micro-nodes).
+
+8. Long-term Brand Ambassadors (Food)
+Prompt: "Which Food influencers have the best balance of reach and cost-efficiency?"
+
+AI Analysis: Calculating "Price per Engagement" (PPE) metric.
+
+Result: Chef Rahul and Foodie_Delight. Their PPE is ₹0.12, the lowest in the Food sector.
+
+9. Geographic Gap Analysis
+Prompt: "Summarize geographic distribution. Where are we lacking?"
+
+AI Analysis: Data Density Mapping.
+
+Result: We are heavily concentrated in North/West India.
+
+Gap: We currently have < 5% representation in the North East and Rural Tier-3 cities.
+
+10. Best-In-Class (By Category)
+Prompt: "Give me the top-performing influencer in every category by engagement."
+
+AI Analysis: Max(Engagement) GroupedBy(Category).
+
+Results:
+
+Tech: GadgetGuru (9.1%)
+
+Fashion: StyleIcon_Me (7.8%)
+
+Travel: Nomad_India (8.4%)
+
+Food: SpiceMaster (10.2%)
